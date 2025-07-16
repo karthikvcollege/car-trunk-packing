@@ -26,8 +26,8 @@ export default function LandingPage() {
 
         <ul className="mb-8 text-lg space-y-1">
           <li>Guha Pranav Yelchuru</li>
-          <li>Ramakrishnan S</li>
           <li>Karthik V</li>
+          <li>Ramakrishnan S</li>
           <li>Kushagra Singh Gaur</li>
 
         </ul>
