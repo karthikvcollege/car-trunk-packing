@@ -202,3 +202,32 @@ export const carModels = {
     volume_unfolded: 47.2
   }
 };
+
+export const luggageTemplates = [
+  {
+    name: 'Medium Duffle Bag 55L',
+    size: [22.8, 13.3, 9.5],
+    display: 'Medium Duffle Bag 55L (22.8" x 13.3" x 9.5")'
+  },
+  {
+    name: 'Large Duffle Bag 70L',
+    size: [26, 14, 11],
+    display: 'Large Duffle Bag 70L (26" x 14" x 11")'
+  },
+  {
+    name: 'Hand Bag',
+    size: [15, 10, 6],
+    display: 'Hand Bag (15" x 10" x 6")'
+  },
+  {
+    name: 'Small Suitcase',
+    size: [20, 14, 9],
+    display: 'Small Suitcase (20" x 14" x 9")'
+  },
+  {
+    name: 'Medium Checked Suitcase',
+    size: [25, 16, 11],
+    display: 'Medium Checked Suitcase (25" x 16" x 11")'
+  }
+];
+
