@@ -57,7 +57,7 @@ A powerful 3D web-based application to optimize luggage arrangement in a car tru
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/GuhaPranav09/car-trunk-packing.git
+git clone https://github.com/karthikvcollege/car-trunk-packing.git
 cd car-trunk-packing
 ```
 
@@ -86,9 +86,9 @@ This app is deployed on [Vercel](https://car-trunk-packing.vercel.app/) .
 
 ## 🧑‍💻 Team Autobots
 
-- Guha Pranav Yelchuru  
+- Guha Pranav Yelchuru
+- Karthik V
 - Ramakrishnan S  
-- Karthik V  
 - Kushagra Singh Gaur  
 
 ---
