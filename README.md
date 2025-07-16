@@ -79,7 +79,7 @@ npm start     # For CRA
 
 ## 🌐 Deployment
 
-This app is deployed on [Vercel](https://car-trunk-packing.vercel.app/) .
+This app is deployed on https://car-trunk-packing-phi.vercel.app/ .
 
 
 ---
